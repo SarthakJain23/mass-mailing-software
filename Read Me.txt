@@ -1,0 +1,14 @@
+Step 1: Connect to the Internet
+
+In order to send emails using the software, you must first ensure that your device is connected to the Internet.
+Check your device’s network settings to confirm that you are connected to a Wi-Fi or cellular data network.
+
+Step 2: Prepare the Excel file
+
+The Excel file that you upload to the software must contain a column named “email” (Case Sensitive).
+This column should contain the email addresses of the recipients to whom you want to send emails.
+
+Step 3: Use your Google App Password
+
+When using the software to send emails through your Gmail account, you must use your Google App Password instead of your regular Gmail password.
+This is because Google discontinued support for third-party applications to send emails using regular Gmail passwords in 2021.
